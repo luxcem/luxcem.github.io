@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to make sure to use request.user in serializers
+title: How to make sure to use request.user in django serializers
+tags: python django
 ---
 
 Often we want to make sure that a serializer will use the current
